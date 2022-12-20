@@ -1,4 +1,4 @@
-## <span style="color:green"> $\checkmark$ Portfolio </span> 
+## $\checkmark$ Portfolio 
 
 ## Итоговая работа на курсе Аналитик данных: с нуля до разработки прикладных решений для бизнеса от Томского Государственного Университета, примеры анализа и образцы дашбордов.
 #### $\\checkmark$ Analiz_ankety_AD804.ipynb
