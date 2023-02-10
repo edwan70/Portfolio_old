@@ -18,9 +18,9 @@
 #### $\\checkmark$ script_RRL_Ozer_.sql
 `Запрос из БД Microsoft SQL параметров уровня сигнала РРЛ.`
 #### $\\checkmark$ ABC-test.ipynb
-`Тестовое задание 1.`
+`Тестовое задание 1`
 #### $\\checkmark$ ABC_XYZ-test.ipynb
-`Тестовое задание 2.`
+`Тестовое задание 2`
 #### $\\checkmark$ БА_1_этап.xlsx
 `Датасет к тестовому заданию`
 
