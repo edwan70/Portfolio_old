@@ -9,7 +9,7 @@
 `Очистка и обработка данных с сайта Про-докторов.`
 #### $\\checkmark$ dashboard_link.md
 `Ссылки на дашборды в Ядндекс DataLens.`
-#### $\\checkmark$ eda_netlogy.ipynb
+#### $\\checkmark$ eda_netology.ipynb
 `Анализ-продажи по городам, по каналам привлечения, по месяцам.`
 #### $\\checkmark$ hits_visits.ipynb
 `Анализ трафика, хитов и визитов, воронки и когорты.`
