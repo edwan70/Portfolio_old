@@ -15,3 +15,6 @@ https://datalens.yandex/xw3ebt089b8yn?tab=np
 
 ## Ссылка на дашборд Supermarket.ru - анализ воронок и когорт:
 https://datalens.yandex/66x78kbbdgigw
+
+## Ссылка на дашборд  - Веб-аналитика сайта интернет-магазина:
+https://datalens.yandex/dflkrop8t1r02?tab=zZ&state=6ce71d2a95
