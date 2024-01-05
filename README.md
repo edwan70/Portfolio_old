@@ -1,41 +1,43 @@
-## $\checkmark$ Portfolio 
+## Portfolio 
 
 ## Итоговая работа на курсе Аналитик данных: с нуля до разработки прикладных решений для бизнеса от Томского Государственного Университета, скрипты SQL, примеры анализа и образцы дашбордов.
-#### $\\checkmark$ Analiz_ankety_AD804.ipynb
+#### Analiz_ankety_AD804.ipynb
 `Анализ данных анкет слушателей группы АД804 поступавших на обучение.`
-#### $\\checkmark$ crowler_doctors.ipynb
+#### crowler_doctors.ipynb
 `Краулер с пагинацией данных сайта Про-докторов.`
-#### $\\checkmark$ crowler_doctors1.ipynb 
+#### crowler_doctors1.ipynb 
 `Очистка и обработка данных сайта Про-докторов.`
-#### $\\checkmark$ dashboard_link.md
+#### dashboard_link.md
 `Ссылки на дашборды в Ядндекс DataLens.`
-#### $\\checkmark$ eda_netology.ipynb
+#### eda_netology.ipynb
 `Анализ-продажи по городам, по каналам привлечения, по месяцам.`
-#### $\\checkmark$ hits_visits.ipynb
+#### hits_visits.ipynb
 `Анализ трафика, хитов и визитов, воронки и когорты.`
-#### $\\checkmark$ Анализ_Минилинк.ipynb
-#### $\\checkmark$ Анализ_минилинк1.ipynb
+#### Анализ_Минилинк.ipynb
+#### Анализ_минилинк1.ipynb
 `Очистка, обработка и анализ массива данных параметров двух промышленных радио-релейных линий.`
-#### $\\checkmark$ Графики_минилинк.ipynb 
+#### Графики_минилинк.ipynb 
 `Построение графиков по параметрам двух промышленных радио-релейных линий.`
-#### $\\checkmark$ Ананьев+Эдуард+Юрьевич_2022-11-10_1107213_Итоговое_задание_1_AD804.ipynb
+#### Ананьев+Эдуард+Юрьевич_2022-11-10_1107213_Итоговое_задание_1_AD804.ipynb
 `Итоговая работа на курсе Аналитик данных: с нуля до разработки прикладных решений для бизнеса от Томского Государственного Университета.`
-#### $\\checkmark$ run_script_RRL_Gelen_Ozer.cmd  
+#### run_script_RRL_Gelen_Ozer.cmd  
 `Сценарий для запуска запроса из БД Microsoft SQL параметров уровня сигнала двух РРЛ.`  
-#### $\\checkmark$ script_RRL_Gelen_Ozer_.sql
+#### script_RRL_Gelen_Ozer_.sql
 `Запрос из БД Microsoft SQL параметров уровня сигнала двух РРЛ.`  
-#### $\\checkmark$ my_RRL_Gelen_Ozer.txt
+#### my_RRL_Gelen_Ozer.txt
 `Результат запроса из БД Microsoft SQL параметров уровня сигнала двух РРЛ.`  
-#### $\\checkmark$ ABC-test.ipynb
+#### ABC-test.ipynb
 `Тестовое задание 1.`
-#### $\\checkmark$ ABC_XYZ-test.ipynb
+#### ABC_XYZ-test.ipynb
 `Тестовое задание 2.`
-#### $\\checkmark$ ozer_gelen_eda.ipynb
+#### ozer_gelen_eda.ipynb
 `Очистка, обработка и анализ данных еще двух промышленных радио-релейных линий.`
-#### $\\checkmark$ Script-витрина_YP_data_engineer.sql
+#### Script-витрина_YP_data_engineer.sql
 `Витрина для кластеризации пользователей на основе их активности на сайте.`  
-#### $\\checkmark$ script_QueryMonitoring.sql  
-#### $\\checkmark$ run_script_QueryMonitoring.cmd  
-#### $\\checkmark$ my_QueryMonitoring.txt
+#### script_QueryMonitoring.sql  
+#### run_script_QueryMonitoring.cmd  
+#### my_QueryMonitoring.txt
 `Простой отчет из базы данных о параметрах климатического оборудования. Из меню программы мониторинга оборудования запускается сценарий Windows - 
 файл cmd, который посредством CLI запускает запрос из БД, сохраняет результат запроса в txt файл и открывает этот файл в текстовом редакторе.`  
+#### курсы.md
+`Список пройденных курсов.`
